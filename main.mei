@@ -1,1 +1,30 @@
-MEI content
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Io son amante</title>
+            <title type="subordinate">Subtitle</title>
+            <respStmt>
+               <persName role="composer">Benedetto Ferrari</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2025-08-12T12:43:11" />
+         </pubStmt>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="vqemhfs">
+            <score xml:id="w84o1t4">
+               
+
+</score>
+
+         </mdiv>
+      </body>
+   </music>
+</mei>
